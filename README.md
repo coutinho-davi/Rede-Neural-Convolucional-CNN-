@@ -6,7 +6,7 @@ O objetivo do projeto é de ensinar e retrabalhar o ML, de modo que ele aumente 
 
 O que foi utilizado para o projeto CNN: 
 - Feito em markdown;
-- Utilização do Trasnfer Learning;
+- Utilização do Transfer Learning;
 - Congelamento de camadas para ajuste de fine-tuning;
 - Piloto para a implementação do GRAD-CAM; 
 - Utilização do MobileNetv2, rede pré treinada no ImageNet.
