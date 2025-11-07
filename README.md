@@ -5,7 +5,7 @@ O objetivo do projeto é de ensinar e retrabalhar o ML, de modo que ele aumente 
 "https://www.kaggle.com/datasets/ravirajsinh45/real-life-industrial-dataset-of-casting-product/data"
 
 O que foi utilizado para o projeto CNN: 
-- Feito em markdown, em .ipynb;
+- Feito em markdown;
 - Utilização do Trasnfer Learning;
 - Congelamento de camadas para ajuste de fine-tuning;
 - Piloto para a implementação do GRAD-CAM; 
